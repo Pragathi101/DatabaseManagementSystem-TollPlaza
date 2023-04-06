@@ -9,10 +9,15 @@ NETC enables a device known as fastag as a payment mode on any toll plaza. fasta
 *The vehicle entity contains the vehicle details like colour, model, unique vehicle number and the vehicle type.
 
 *Toll plaza entity contains about the location, its id, the employee working in it and its contractor and every toll plaza has different amount.
+
 *Contractors and employee details are in the contractor and employee entity which has unique contractor id and employee id respectively.
+
 *The fastag contains the unique fastag id associated with each vehicle and the id issued date.
+
 *The vehicle passes entity gives the details of the vehicles passed through toll plaza and the date of passing.
+
 *The amount deducted from the owners account to the toll plaza account if the vehicle is passed
  through any of the toll plaza.
+ 
 In this way the database model fulfils all the data storing and its management.
 
