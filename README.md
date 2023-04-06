@@ -23,4 +23,6 @@ NETC enables a device known as fastag as a payment mode on any toll plaza. fasta
 In this way the database model fulfils all the data storing and its management.
 
 ## ER Diagram
-<img width="263" alt="ER_tollplaza" src="https://user-images.githubusercontent.com/83768127/230460555-d41dd860-fc50-426c-951b-02fc19d65774.png"
+![sddefault](https://user-images.githubusercontent.com/83768127/230460555-d41dd860-fc50-426c-951b-02fc19d65774.png)
+![sddefault](https://user-images.githubusercontent.com/83766342/120937461-2698c780-c72b-11eb-8eae-c572bb7f2a83.jpg)
+
