@@ -1,4 +1,4 @@
-# DatabaseManagementSystem/TollPlaza
+# DatabaseManagementSystem on TollPlaza
 
 NETC enables a device known as fastag as a payment mode on any toll plaza. fastag is attached on the windscreen of a vehicle and employs Radio frequency Identification technology (RFID) for making toll payments directly from prepaid or savings account linked to it.
 This database keeps track of the citizens who has an account int the bank, who has a car. Each car has its details and each car has fastag. It contains the locations of the toll plaza and the details of the vehicles passed through these toll plazas.
